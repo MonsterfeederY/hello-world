@@ -1,2 +1,2 @@
 # hello-world
-just a monsterfeeder's tools
+just a monsterfeeder's tool
